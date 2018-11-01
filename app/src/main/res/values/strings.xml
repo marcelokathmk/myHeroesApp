@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Meus Heróis</string>
+    <string name="title_activity_my_heroes">Meus Heróis</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_reservar_de_novo">Reservar de novo</string>
+    <string name="text_conversar">Conversar</string>
+    <string name="text_heroi_favorito">Heróis favoritos</string>
+    <string name="text_herois_ja_hospedados">Heróis com quem hospedei</string>
+    <string name="mock_qtd_bookings">(415)</string>
+    <string name="text_night">por noite</string>
+    <string name="text_rs">R$</string>
+</resources>

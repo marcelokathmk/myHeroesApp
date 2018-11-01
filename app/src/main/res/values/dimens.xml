@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="my_hero_btn_reservar_height">40dp</dimen>
+</resources>

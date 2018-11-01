@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1F000000</color>
+    <color name="colorPrimaryDark">#1F000000</color>
+    <color name="colorAccent">#1F000000</color>
+    <color name="colorReservar">#ef3a5d</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBordaConversar">#1F000000</color>
+    <color name="colorSubtituloMyHero">#6B000000</color>
+    <color name="colorHostName">#A8000000</color>
+    <color name="colorNeighborhood">#6B000000</color>
+    <color name="colorRatingBar">#e5e500</color>
+    <color name="colorValue">#A8000000</color>
+</resources>
